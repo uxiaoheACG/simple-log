@@ -2,6 +2,6 @@ package simpleLog
 
 import "fmt"
 
-func test() {
+func Test() {
 	fmt.Println("simpleLog")
 }
