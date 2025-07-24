@@ -1,1 +1,1 @@
-module simple-log
+module github.com/uxiaoheACG/simple-log
